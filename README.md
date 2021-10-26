@@ -1,4 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umudikk&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umudik&show_icons=true)
 
 
